@@ -1,0 +1,130 @@
+<style>
+div {
+    max-width: 1600px;
+    height: 100px;
+    width: 50%;
+    border: 1px solid white;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+</style>
+
+body {
+    background-color: #fcfbfb;
+}
+
+header {
+    background-color:rgba(20, 30, 13, .7);
+}
+
+nav a:hover {
+    background-color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+nav a{
+    background-color: ;
+    color:white;
+}
+nav a:hover {
+    background-color: black;
+    color: white;
+}
+.home-titlle{
+    background-color: white;
+    color: black;
+}
+h4 {
+    background-color: white;
+    color:black;
+}
+
+.book, .join {
+    background-color: white;
+    color: black;
+}
+
+.book:hover, .join:hover {
+    background-color:white;
+    color: black;
+}
+
+.msg h2 {
+    background-color: gray;
+    color: white;
+}
+.msg p {
+    background-color: gray;
+    color: white;
+}
+.main-para {
+    font-size: 2.5em;
+    line-height: 3.5em;
+}
+
+footer {
+    background-color: gray;
+    color: white;
+}
+
+footerl a{
+    background-color: gray;
+    color: black;
+}
+
+footer a:hover {
+    background-color: gray;
+    color: black;
+}
+button {
+    background-color: blue;
+    color: white;
+}
+
+div {
+    background-color: white;
+    color: black;
+}
+
+.icon {
+    width: 80px;
+}
+.logo {
+    width: 80px;
+}
+
+nav a {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.book, .join {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+footer a {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    float: left;
+}
+
+
+
